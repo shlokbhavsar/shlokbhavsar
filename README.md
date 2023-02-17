@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **shlokbhavsar75@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1bfZQmRbLO3mOa5O0IeL7iRBo5O5aZ_e7/view?usp=share_link](https://drive.google.com/file/d/1bfZQmRbLO3mOa5O0IeL7iRBo5O5aZ_e7/view?usp=share_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1zSJ3Yj5165BBvCJ8Fe3U9qt2d968yakD/view?usp=share_link]
 
 - ⚡ Fun fact **crazy,funny,curious**
 
