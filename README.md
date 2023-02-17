@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://animated-gif-creator.com/images/01/custom-logo-design-for-your-business-knb-logos_76.gif)]
 
 <h1 align="center"> 👋, I'm SHLOK BHAVSAR</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **shlokbhavsar75@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1bfZQmRbLO3mOa5O0IeL7iRBo5O5aZ_e7/view?usp=share_link](https://drive.google.com/file/d/1bfZQmRbLO3mOa5O0IeL7iRBo5O5aZ_e7/view?usp=share_link)
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1zSJ3Yj5165BBvCJ8Fe3U9qt2d968yakD/view?usp=share_link">CLICK HERE!</a>
 
 - ⚡ Fun fact **crazy,funny,curious**
 
