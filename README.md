@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shlokbhavsar&label=Profile%20views&color=0e75b6&style=flat" alt="shlokbhavsar" /> </p>
 
 # 💫 About Me:
-🌱 I’m currently learning python , flutter.<br><br>💬 Ask me about frontend development<br><br>📫 How to reach me shlokbhavsar75@gmail.com<br><br>📄 Know about my experiences <a href="https://drive.google.com/file/d/1zSJ3Yj5165BBvCJ8Fe3U9qt2d968yakD/view?usp=share_link"> CLICK HERE!</a><br><br>⚡ Fun fact crazy,funny,curious
+🌱 I’m currently learning python , flutter.<br><br>💬 Ask me about frontend development<br><br>📫 How to reach me shlokbhavsar75@gmail.com<br><br>📄 Know about my experiences <a href="https://drive.google.com/file/d/1zSJ3Yj5165BBvCJ8Fe3U9qt2d968yakD/view?usp=share_link" download> CLICK HERE!</a><br><br>⚡ Fun fact crazy,funny,curious
 
 
 ## 🌐 Socials:
